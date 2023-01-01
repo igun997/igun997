@@ -21,5 +21,5 @@ This page updated since 2023-01-01 as my personal notes. I hope it will be usefu
 
 
 ## Page 1 of 365
-- [x] Day 1: [AnimeList](https://github.com/igun997/anime-list)
+- [x] [AnimeList](https://github.com/igun997/anime-list) - Anime List with ReactJS
 
