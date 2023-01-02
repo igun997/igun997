@@ -24,5 +24,5 @@ This page updated since 2023-01-01 as my personal notes. I hope it will be usefu
 - [x] [AnimeList](https://github.com/igun997/anime-list) - Anime List with ReactJS
 
 ## Page 2 of 365 
-- [x] [Wedding and Photoshoot Company Profile](git@github.com:igun997/wedding-compro.git) - Wedding and Photoshoot Company Profile with Laravel 9 & ReactJS
+- [x] [Wedding and Photoshoot Company Profile](https://github.com/igun997/wedding-compro) - Wedding and Photoshoot Company Profile with Laravel 9 & ReactJS
 
