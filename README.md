@@ -31,3 +31,6 @@ This page updated since 2023-01-01 as my personal notes. I hope it will be usefu
 
 ## Page 4 of 365
 - [x] [Crypto Viewer](https://github.com/igun997/exchange-viewer) - To see current price of your favorite crypto currency
+
+## Page 5 of 365
+- [x] [Boilerplate ANTD](https://github.com/igun997/Boilerplate-ANTD-NextJS) - Boilerplate ANTD and NEXTJS
