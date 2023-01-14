@@ -34,3 +34,6 @@ This page updated since 2023-01-01 as my personal notes. I hope it will be usefu
 
 ## Page 5 of 365
 - [x] [Boilerplate ANTD](https://github.com/igun997/Boilerplate-ANTD-NextJS) - Boilerplate ANTD and NEXTJS
+
+## Page 6 of 365 
+-[x] [Directory Wordpress Plugin](https://github.com/igun997/exhibition-directory) - Exhibitor Directory for WordPress
