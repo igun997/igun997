@@ -37,3 +37,6 @@ This page updated since 2023-01-01 as my personal notes. I hope it will be usefu
 
 ## Page 6 of 365 
 - [x] [Directory Wordpress Plugin](https://github.com/igun997/exhibition-directory) - Exhibitor Directory for WordPress
+
+## Page 7 of 365 
+- [x] [Fire Safety Festival Landing](https://github.com/igun997/fire-festival) - FIRE SAFETY FESTIVAL
