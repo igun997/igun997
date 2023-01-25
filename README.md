@@ -39,4 +39,4 @@ This page updated since 2023-01-01 as my personal notes. I hope it will be usefu
 - [x] [Directory Wordpress Plugin](https://github.com/igun997/exhibition-directory) - Exhibitor Directory for WordPress
 
 ## Page 7 of 365 
-- [x] [Fire Safety Festival Landing](https://github.com/igun997/fire-festival) - Fire Safety Festival 2023
+- [x] [Fire Safety Festival Landing](https://github.com/igun997/fire-festival) - Fire Safety Festival 2023 Kemendagri 
