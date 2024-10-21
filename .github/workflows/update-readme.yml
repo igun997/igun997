@@ -1,17 +1,28 @@
-name: Update README with Public Repos
+name: Update README with Repos
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight (can adjust as needed)
-  workflow_dispatch: # Allows manual triggering of the action
+    - cron: "0 0 * * *"  # Runs every day at midnight (adjust as needed)
+  workflow_dispatch:  # Allows manual triggering of the action
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v2
-      
-      - name: Update README
-        uses: Matchai/awesome-readme-generator@main
-        env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Fetch Repositories
+      run: |
+        curl -s https://api.github.com/users/igun997/repos?per_page=100 | jq -r '.[] | "- [\(.name)](\(.html_url)) - \(.description)"' > repo-list.md
+        cat repo-list.md
+
+    - name: Update README
+      run: |
+        sed -i '/<!--START_SECTION:repos-->/{r repo-list.md' -e 'd}' README.md
+        git config --global user.email "actions@github.com"
+        git config --global user.name "GitHub Action"
+        git add README.md
+        git commit -m "Update README with latest repos"
+        git push
