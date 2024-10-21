@@ -31,28 +31,9 @@ This page has been my personal notes since **2023-01-01**. I hope it serves as a
 
 ## 📖 Pages of Code Journey
 
-### Page 1 of 365 
-- [x] [**AnimeList**](https://github.com/igun997/anime-list) - Anime List built with ReactJS.
+<!--START_SECTION:repos-->
+<!--END_SECTION:repos-->
 
-### Page 2 of 365 
-- [x] [**Wedding and Photoshoot Company Profile**](https://github.com/igun997/wedding-compro) - Company profile using Laravel 9 & ReactJS.
-
-### Page 3 of 365 
-- [x] [**WhatsApp API SDK**](https://github.com/MauKirim/WhatsappAPI-SDK) - Integrate your system with WhatsApp using MauKirim SDK.
-
-### Page 4 of 365 
-- [x] [**Crypto Viewer**](https://github.com/igun997/exchange-viewer) - Monitor the current price of your favorite cryptocurrency.
-
-### Page 5 of 365 
-- [x] [**Boilerplate ANTD & NextJS**](https://github.com/igun997/Boilerplate-ANTD-NextJS) - Pre-built template for using ANTD and NextJS.
-
-### Page 6 of 365 
-- [x] [**Directory WordPress Plugin**](https://github.com/igun997/exhibition-directory) - Create an exhibitor directory on WordPress.
-
-### Page 7 of 365 
-- [x] [**Fire Safety Festival Landing**](https://github.com/igun997/fire-festival) - Landing page for the Fire Safety Festival 2023 by Kemendagri.
-
----
 
 ## 💻 Latest Contributions
 

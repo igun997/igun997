@@ -1,0 +1,17 @@
+name: Update README with Public Repos
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at midnight (can adjust as needed)
+  workflow_dispatch: # Allows manual triggering of the action
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Update README
+        uses: Matchai/awesome-readme-generator@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
