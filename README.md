@@ -66,14 +66,16 @@ const indra = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=igun997&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=igun997&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
+<a href="https://github.com/igun997">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=igun997&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=igun997&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</a>
 
 </div>
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igun997&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1)](https://github.com/igun997)
+[![GitHub Streak](https://streak-stats.demolab.com?user=igun997&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=F97316&currStreakLabel=6366F1)](https://git.io/streak-stats)
 
 </div>
 
@@ -83,7 +85,7 @@ const indra = {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=igun997&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF)](https://github.com/igun997)
+[![igun997's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=igun997&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/igun997)
 
 </div>
 
@@ -111,7 +113,7 @@ const indra = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=igun997&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/igun997)
+[![trophy](https://github-profile-trophy.vercel.app/?username=igun997&theme=nord&column=7&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -133,7 +135,7 @@ const indra = {
 
 💼 **Open for collaboration on interesting projects!**
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:indra@nusatek.id)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:indra.gunanda@ciptadusa.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indra.gunanda/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/igun997)
 
