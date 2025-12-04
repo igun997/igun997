@@ -1,138 +1,150 @@
-# Welcome, Dears! 👋
+<div align="center">
 
-> **"The journey of a thousand miles begins with a single step."**  
-> *— Lao Tzu*
+# Hey there! 👋 I'm Indra Gunanda
 
-This page has been my personal notes since **2023-01-01**. I hope it serves as a useful guide for you.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;Blockchain+Enthusiast;Open+Source+Contributor;Building+cool+stuff+with+code)](https://git.io/typing-svg)
+
+> **"The journey of a thousand miles begins with a single step."** — *Lao Tzu*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indra.gunanda/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/igun997)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/igun997)
+
+</div>
 
 ---
 
 ## 🌟 About Me
 
-- 🌱 I’m currently embarking on the **365 Days of Code Challenge**.
-- 📫 Reach me on [**Telegram**](https://t.me/igun997).
-- ⚡ Fun fact: **I'm a self-proclaimed lazy person**, but I get things done!
-- 📝 Let's connect on [**LinkedIn**](https://www.linkedin.com/in/indra.gunanda/).
-- 🧑‍💼 Full Stack Developer at [**PT. Nusantara Sukses Teknologi**](https://www.nusatek.id/).
+```javascript
+const indra = {
+    location: "Jakarta, Indonesia 🇮🇩",
+    role: "Full Stack Developer",
+    company: "PT. Nusantara Sukses Teknologi",
+    challenge: "365 Days of Code",
+    funFact: "I'm a self-proclaimed lazy person, but I get things done! 😄"
+};
+```
+
+- 🔭 Currently working on **blockchain & Web3 projects**
+- 🌱 Learning **Rust, Solidity, and Cloud Architecture**
+- 💬 Ask me about **Laravel, React, Node.js, Blockchain**
+- ⚡ Fun fact: I turn ☕ into `<code/>`
 
 ---
 
-## 🚀 My Projects
+## 🛠️ Tech Stack
 
-- [**MauKirim**](https://maukirim.com/) - OmniChannel WhatsApp Chatbot and CRM product.
+<div align="center">
+
+### Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+
+### Frameworks & Libraries
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
 
 ---
 
-## 📊 Most Used Languages
+## 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igun997&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=igun997&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=igun997&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
+
+</div>
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igun997&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1)](https://github.com/igun997)
+
+</div>
 
 ---
 
-## 📖 Pages of Code Journey
+## 📈 Contribution Graph
 
-- [anime-list](https://github.com/igun997/anime-list) - null
-- [apotek](https://github.com/igun997/apotek) - null
-- [app-toolkit](https://github.com/igun997/app-toolkit) - Toolkit for General Purphose App 
-- [ardor-warpper](https://github.com/igun997/ardor-warpper) - Wrapper for Ardor Blockchain Platform
-- [array-switch](https://github.com/igun997/array-switch) - Array Switch
-- [ARSIPKU](https://github.com/igun997/ARSIPKU) - Aplikasi Arsip Menggunakan Laravel (Khusus Arsip Sekolah)
-- [atlas](https://github.com/igun997/atlas) - A self-hosted PaaS web app / interface / ui for Dokku with git deploys, rollbacks, databases, auto-SSL and more
-- [backligt-manager](https://github.com/igun997/backligt-manager) - null
-- [base_laminas](https://github.com/igun997/base_laminas) - null
-- [base_mobile](https://github.com/igun997/base_mobile) - null
-- [base_mobile_svelte](https://github.com/igun997/base_mobile_svelte) - null
-- [BasisData](https://github.com/igun997/BasisData) - Repository Tugas Basis Data
-- [bbi](https://github.com/igun997/bbi) - null
-- [bblr](https://github.com/igun997/bblr) - null
-- [bblr-ui](https://github.com/igun997/bblr-ui) - null
-- [BBLR_API](https://github.com/igun997/BBLR_API) - null
-- [bblr_panel](https://github.com/igun997/bblr_panel) - BBLR Panel
-- [BBLR_UI](https://github.com/igun997/BBLR_UI) - null
-- [blog-react-nextjs-material-layout](https://github.com/igun997/blog-react-nextjs-material-layout) - Next.js Material UI Version 4.x  Layout with Side Menu (Drawer) Demo
-- [BLOG-UI](https://github.com/igun997/BLOG-UI) - null
-- [Boilerplate-ANTD-NextJS](https://github.com/igun997/Boilerplate-ANTD-NextJS) - null
-- [bot-php](https://github.com/igun997/bot-php) - Bot line PHP
-- [bpr](https://github.com/igun997/bpr) - null
-- [BPR-Laravel](https://github.com/igun997/BPR-Laravel) - null
-- [BSDLatihan](https://github.com/igun997/BSDLatihan) - null
-- [bulkimage_to_pdf](https://github.com/igun997/bulkimage_to_pdf) - Bulk Image from Folder to PDF 
-- [ci_config](https://github.com/igun997/ci_config) - null
-- [CLIBCA](https://github.com/igun997/CLIBCA) - null
-- [cmslaravel7](https://github.com/igun997/cmslaravel7) - Website Company Profile Sederhana Laravel 7
-- [Codeigniter3-PSR4](https://github.com/igun997/Codeigniter3-PSR4) - Codeigniter 3 root Laravel 5.8
-- [coinbase-ticker](https://github.com/igun997/coinbase-ticker) - Ticker Coinbase API V1
-- [covid19-monitoring](https://github.com/igun997/covid19-monitoring) - null
-- [crypton](https://github.com/igun997/crypton) - Laravel Request & Response Encryption
-- [donasi](https://github.com/igun997/donasi) - null
-- [E-puskesmas](https://github.com/igun997/E-puskesmas) - e-puskesmas with google sheet cloud computing
-- [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/igun997/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
-- [eraport](https://github.com/igun997/eraport) - null
-- [eth-fast-mnemonic-checker](https://github.com/igun997/eth-fast-mnemonic-checker) - Brute force ethereum wallet mnemonics. Multi-threaded and suprisingly fast. Check balances
-- [eth-mnemonic-miner](https://github.com/igun997/eth-mnemonic-miner) - null
-- [EventX](https://github.com/igun997/EventX) - The Opensource Event Organizer
-- [excel_indie](https://github.com/igun997/excel_indie) - null
-- [exchange-viewer](https://github.com/igun997/exchange-viewer) - Page 3 of 365 
-- [exhibition-consumer](https://github.com/igun997/exhibition-consumer) - Exhibition Consumer is Part of Wordpress Plugin exhibition-directory
-- [exhibition-directory](https://github.com/igun997/exhibition-directory) - null
-- [Face-Tracking](https://github.com/igun997/Face-Tracking) - null
-- [face_recognition](https://github.com/igun997/face_recognition) - The world's simplest facial recognition api for Python and the command line
-- [fast-pants](https://github.com/igun997/fast-pants) - Fast Pants Pride N Joy
-- [fast-pants-backend](https://github.com/igun997/fast-pants-backend) - null
-- [fire-festival](https://github.com/igun997/fire-festival) - Fire Festival 2023
-- [FP-Tree](https://github.com/igun997/FP-Tree) - null
-- [Framework-SystemFive](https://github.com/igun997/Framework-SystemFive) - Framwork S5
-- [GalacticBot](https://github.com/igun997/GalacticBot) -  GalacticBot is a PHP 7.x library for creating trading bots on the Stellar platform.
-- [Game-Kartu-Interaktif](https://github.com/igun997/Game-Kartu-Interaktif) - null
-- [GDIPortal](https://github.com/igun997/GDIPortal) - Graha Dhuafa Indonesia Portal
-- [go-proxy-downloader](https://github.com/igun997/go-proxy-downloader) - null
-- [go-whatsapp-web-multidevice](https://github.com/igun997/go-whatsapp-web-multidevice) - API for Whatsapp Web Multi Device Version, Support UI & Webhook
-- [google-proxy-fileid](https://github.com/igun997/google-proxy-fileid) - Google Proxy to ByPass 403 Forbidden on All Drive Direct Link
-- [gopay-api](https://github.com/igun997/gopay-api) - [Gojek] Gopay Api PHP Class (Un-Official)
-- [Groceries-Organic-Store](https://github.com/igun997/Groceries-Organic-Store) - Groceries Organic Store - Free Bootstrap 4 HTML Template
-- [grosir-obat](https://github.com/igun997/grosir-obat) - Sebuah sistem kasir dan manajemen produk obat untuk penjualan Grosir
-- [hadith-api](https://github.com/igun997/hadith-api) - Simple Islamic Hadith API with Indonesia Translation.
-- [igun997](https://github.com/igun997/igun997) - null
-- [igun997.github.io](https://github.com/igun997/igun997.github.io) - null
-- [ikan-bergoyang](https://github.com/igun997/ikan-bergoyang) - null
-- [image-recognition-azure-api](https://github.com/igun997/image-recognition-azure-api) - Image Recognition use Microsoft Azure API 
-- [instagram-simple-bot](https://github.com/igun997/instagram-simple-bot) - null
-- [Inventory](https://github.com/igun997/Inventory) - null
-- [ionic-push-base](https://github.com/igun997/ionic-push-base) - Ionic Push Notifications Base App for iOS and Android
-- [jglow](https://github.com/igun997/jglow) - null
-- [jglow-pwa](https://github.com/igun997/jglow-pwa) - null
-- [Kartu-Interaktif-PWA-](https://github.com/igun997/Kartu-Interaktif-PWA-) - Game Kartu Interaktif Dengan Progress Web App
-- [kayusirap](https://github.com/igun997/kayusirap) - Kayu Sirap Samarinda
-- [Kepeg](https://github.com/igun997/Kepeg) - null
-- [KMeans-Codeigniter](https://github.com/igun997/KMeans-Codeigniter) - Contoh Program KMeans (Pelanggaran Lalu Lintas)
-- [KOPIKA](https://github.com/igun997/KOPIKA) - null
-- [koveksi](https://github.com/igun997/koveksi) - null
-- [larareactia](https://github.com/igun997/larareactia) - Laravel SPA + React + Inertia.js + TailwindCSS starter template with authentication.
-- [laravel](https://github.com/igun997/laravel) - Reliese Laravel Model Generator
-- [laravel-api-starter-kit](https://github.com/igun997/laravel-api-starter-kit) - Let Your Project Shining Bright with This StarterKit
-- [laravel-crud-generator](https://github.com/igun997/laravel-crud-generator) - Laravel CRUD Generator
-- [LaravelBoilerplate](https://github.com/igun997/LaravelBoilerplate) - Boilerplate for Fastest Coding 
-- [LMS-Prototype](https://github.com/igun997/LMS-Prototype) - [DEVELOPMENT LMS Platform]
-- [LMS-Prototype-EVOL](https://github.com/igun997/LMS-Prototype-EVOL) - null
-- [locutus](https://github.com/igun997/locutus) - All your standard libraries will be assimilated into our JavaScript collective. Resistance is futile.
-- [LOVAPOS](https://github.com/igun997/LOVAPOS) - POS for LOVA
-- [lumen](https://github.com/igun997/lumen) - null
-- [MainAPI.net-SMS-Notification-Codeigniter-3-Library](https://github.com/igun997/MainAPI.net-SMS-Notification-Codeigniter-3-Library) - MainAPI.net SMS Notification for Codeigniter 3 Library
-- [manga_crawler](https://github.com/igun997/manga_crawler) - Manga Crawaler & Batch Manga Creator
-- [materiP3](https://github.com/igun997/materiP3) - Materi Pertemuan 3
-- [module-simple-calculate-shipping-rate](https://github.com/igun997/module-simple-calculate-shipping-rate) - Magento 2 module calculate shipping rates on checkout page with Raja Ongkir
-- [MT7630E](https://github.com/igun997/MT7630E) - Modified easy installation package
-- [myStellar.org](https://github.com/igun997/myStellar.org) - PAID to POST, get STELLAR income monthly, simply by share and blog anything you like, myStellar.org is a media forum dedicated to stellar, help fight poverty
-- [Nambani](https://github.com/igun997/Nambani) - Hackathon IDS
-- [next-splat-viewer](https://github.com/igun997/next-splat-viewer) - null
-- [nodejs-kampusKIT](https://github.com/igun997/nodejs-kampusKIT) - null
-- [nodejs-smsbroadcast](https://github.com/igun997/nodejs-smsbroadcast) - null
-- [nomishop](https://github.com/igun997/nomishop) - Final Project Edspert
-- [oop-pengenalan](https://github.com/igun997/oop-pengenalan) - null
-- [OOP_PHP](https://github.com/igun997/OOP_PHP) - Kunci Jawaban SSO Semester 3
-<!--END_SECTION:repos-->
+<div align="center">
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=igun997&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF)](https://github.com/igun997)
 
-## 💻 Latest Contributions
+</div>
 
-Stay tuned for more updates on my GitHub contributions [here](https://github.com/igun997).
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![MauKirim](https://img.shields.io/badge/🚀_MauKirim-OmniChannel_WhatsApp_CRM-6366F1?style=for-the-badge)](https://maukirim.com/)
+[![Etags](https://img.shields.io/badge/🏷️_Etags-Blockchain_Product_Auth-10B981?style=for-the-badge)](https://github.com/cds-id/etags)
+
+</div>
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [**MauKirim**](https://maukirim.com/) | OmniChannel WhatsApp Chatbot and CRM | Laravel, React, WhatsApp API |
+| [**Etags**](https://github.com/cds-id/etags) | Blockchain Product Authentication | Next.js, Solidity, Base Chain |
+| [**GalacticBot**](https://github.com/igun997/GalacticBot) | Trading bot for Stellar platform | PHP, Stellar SDK |
+| [**go-whatsapp-web**](https://github.com/igun997/go-whatsapp-web-multidevice) | WhatsApp Web Multi-Device API | Go, WebSocket |
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=igun997&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/igun997)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/igun997/igun997/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+💼 **Open for collaboration on interesting projects!**
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:indra@nusatek.id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indra.gunanda/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/igun997)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=igun997&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
+
+**Thanks for visiting!** ⭐ Star my repos if you find them useful!
+
+</div>
