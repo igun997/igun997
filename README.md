@@ -75,7 +75,7 @@ const indra = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=igun997&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=F97316&currStreakLabel=6366F1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-black-gamma.vercel.app?user=igun997&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=F97316&currStreakLabel=6366F1)](https://git.io/streak-stats)
 
 </div>
 
