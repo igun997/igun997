@@ -67,16 +67,7 @@ const indra = {
 <div align="center">
 
 <a href="https://github.com/igun997">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=igun997&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=igun997&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</a>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats-black-gamma.vercel.app?user=igun997&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=F97316&currStreakLabel=6366F1)](https://git.io/streak-stats)
-
+  <img height="180em" src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=igun997&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D&t=1"/>
 </div>
 
 ---
